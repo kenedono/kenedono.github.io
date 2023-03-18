@@ -230,10 +230,7 @@ margin-top:50px;
  opacity: 0;
  transition: opacity 0.8s ease-out 0.1s, visibility 0.1s ease-out 0.9s;
  }
- img {
- width:1200px;
-height:300px;
- }
+
  .slide input:checked + label + div {
  visibility: visible;
  opacity: 1;
