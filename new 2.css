@@ -63,7 +63,11 @@ float:left;
  .header a {
 	 color:#fff;
 	 text-decoration:none;
-}	 
+}
+img {
+ width:1200px;
+height:300px;
+ }
  .header img {
 	 width: 150px;
 height: 150px;
